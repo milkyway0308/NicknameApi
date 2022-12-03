@@ -1,0 +1,11 @@
+name: NicknameApi
+version: 1.0.0
+main: skywolf46.nicknameapi.NicknameApiPlugin
+api-version: 1.19
+commands:
+  test3:
+    description: test
+  test4:
+    description: test
+  test5:
+    description: test
